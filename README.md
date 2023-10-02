@@ -2,6 +2,27 @@
 
 Are you an engineering graduate looking to kickstart your career in the world of technology and innovation? Welcome to Project-Wizard, your ultimate destination for a curated collection of open-source projects tailored specifically for engineering graduates.
 
+---
+## Maintainers
+<details>
+  <summary>Pralin Khaira</summary>
+
+- **GitHub:** [Github](https://github.com/pralinkhaira/)
+- **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
+- **Website:** [Website](https://pralinkhaira.github.io/)
+
+</details>
+
+<details>
+  <summary>Akshant Saini</summary>
+
+- **GitHub:** [Github](https://github.com/theakshantsaini/)
+- **Email:** [pralin.khaira.1903@gmail.com](mailto:be.coder.19@gmail.com)
+
+</details>
+
+---
+
 ## Why Project-Wizard?
 
 Embarking on your engineering journey is an exciting and challenging adventure. However, it can be daunting to figure out where to begin or how to gain practical experience. Project-Wizard is here to guide you through this process by offering a diverse range of open-source projects from various engineering disciplines, including computer science, electrical engineering, mechanical engineering, and more.
