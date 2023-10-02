@@ -4,8 +4,11 @@ Are you an engineering graduate looking to kickstart your career in the world of
 
 ---
 ## Maintainers
+
+### Pralin Khaira ![Owner: Pralin](https://img.shields.io/badge/Owner-PralinKhaira-purple?logo=github)
+
 <details>
-  <summary>Pralin Khaira - Owner</summary>
+  <summary>Contact Pralin Khaira</summary>
 
 - **GitHub:** [Pralin Khaira](https://github.com/pralinkhaira/)
 - **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
@@ -13,13 +16,16 @@ Are you an engineering graduate looking to kickstart your career in the world of
 
 </details>
 
+### Akshant Saini ![Collaborator: Akshant](https://img.shields.io/badge/Collaborator-AkshantSaini-blue?logo=github)
+
 <details>
-  <summary>Akshant Saini - Collaborator</summary>
+  <summary>Contact Akshant Saini</summary>
 
 - **GitHub:** [Akshant Saini](https://github.com/theakshantsaini/)
-- **Email:** [Mail](mailto:be.coder.19@gmail.com)
+- **Email:** [Mail Me!](mailto:be.coder.19@gmail.com)
 
 </details>
+
 
 ---
 
