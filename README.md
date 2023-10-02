@@ -23,6 +23,20 @@ Are you an engineering graduate looking to kickstart your career in the world of
 
 ---
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/pralinkhaira" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ 
+ <a href="https://github.com/pralinkhaira1903" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-cyan" alt="HF2k23" /></a>
+ <a href="https://github.com/pralinkhaira/Project-Wizard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/pralinkhaira/Project-Wizard" alt="PR's Merged"/></a>
+ 
+ <a href="https://github.com/pralinkhaira/Project-Wizard/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pralinkhaira/Project-Wizard?color=2b9348"></a>
+ <a href="https://github.com/pralinkhaira/Project-Wizard/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pralinkhaira/Project-Wizard?color=2b9348" alt="License Badge"/></a>
+
+</div>
+
 ## Why Project-Wizard?
 
 Embarking on your engineering journey is an exciting and challenging adventure. However, it can be daunting to figure out where to begin or how to gain practical experience. Project-Wizard is here to guide you through this process by offering a diverse range of open-source projects from various engineering disciplines, including computer science, electrical engineering, mechanical engineering, and more.
