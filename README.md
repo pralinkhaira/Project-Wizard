@@ -139,5 +139,13 @@ We are excited to announce that Project-Wizard is a part of Hacktoberfest 2023, 
 
 We appreciate all [contributors](Contributers.md) who make Project-Wizard possible.
 
+<a href="https://github.compralinkhaira/Project-Wizard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pralinkhaira/Project-Wizard" />
+</a>
+
+<br>
+<br/>
+
+
 ![Owner: Pralin](https://img.shields.io/badge/Owner-PralinKhaira-purple?logo=github)
 ![Hacktoberfest-Accepted](https://img.shields.io/badge/Hacktoberfest--Accepted-cyan)
