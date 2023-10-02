@@ -8,3 +8,7 @@
 ### **Pralin Khaira**: [BitH0xer](https://github.com/pralinkhaira)
 - Jammu & Kashmir, India
 - Hobbies: Guitar, Gaming, Coding.
+
+### **Dhyey**: [InvisiblePro](https://github.com/InvisiblePro)
+-Gujarat, India
+- Hobbies: Python
