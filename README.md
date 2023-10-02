@@ -76,6 +76,8 @@ All contributions are highly appreciated. Join us in shaping the future of engin
 
 4. We do not accept README.md updates as valid contributions, although we have contributers.md for adding your name there!
 
+5. Additions to Contributers.md will be accepted/approved only if you contribute by adding a valid project!
+
 ## Hacktoberfest 2023
 
 We are excited to announce that Project-Wizard is a part of Hacktoberfest 2023, celebrating its 10th anniversary.
