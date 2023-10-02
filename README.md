@@ -5,16 +5,16 @@ Are you an engineering graduate looking to kickstart your career in the world of
 ---
 ## Maintainers
 <details>
-  <summary>Pralin Khaira</summary>
+  <summary>Pralin Khaira - Owner</summary>
 
 - **GitHub:** [Pralin Khaira](https://github.com/pralinkhaira/)
 - **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
-- **Website:** [Website](https://pralinkhaira.github.io/)
+- **Website:** [Portfolio Website](https://pralinkhaira.github.io/)
 
 </details>
 
 <details>
-  <summary>Akshant Saini</summary>
+  <summary>Akshant Saini - Collaborator</summary>
 
 - **GitHub:** [Akshant Saini](https://github.com/theakshantsaini/)
 - **Email:** [Mail](mailto:be.coder.19@gmail.com)
