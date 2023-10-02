@@ -7,7 +7,7 @@ Are you an engineering graduate looking to kickstart your career in the world of
 <details>
   <summary>Pralin Khaira</summary>
 
-- **GitHub:** [Github](https://github.com/pralinkhaira/)
+- **GitHub:** [Pralin Khaira](https://github.com/pralinkhaira/)
 - **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
 - **Website:** [Website](https://pralinkhaira.github.io/)
 
@@ -16,8 +16,8 @@ Are you an engineering graduate looking to kickstart your career in the world of
 <details>
   <summary>Akshant Saini</summary>
 
-- **GitHub:** [Github](https://github.com/theakshantsaini/)
-- **Email:** [pralin.khaira.1903@gmail.com](mailto:be.coder.19@gmail.com)
+- **GitHub:** [Akshant Saini](https://github.com/theakshantsaini/)
+- **Email:** [Mail](mailto:be.coder.19@gmail.com)
 
 </details>
 
