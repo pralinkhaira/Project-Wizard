@@ -12,3 +12,7 @@
 ### **Dhyey**: [InvisiblePro](https://github.com/InvisiblePro)
 -Gujarat, India
 - Hobbies: Python
+
+### **Mahil Reshi**: [Mahil](https://github.com/mahilreshi)
+- J&K, India
+- Hobbies: Web Dev, IOT, Embedded sys. etc

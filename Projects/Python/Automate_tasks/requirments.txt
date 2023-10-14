@@ -1,0 +1,5 @@
+Make sure to install the required libraries 
+(e.g., pandas for data cleaning, BeautifulSoup for web scraping) using pip:
+
+pip install pandas
+pip install beautifulsoup4
