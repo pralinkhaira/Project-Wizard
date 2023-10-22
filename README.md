@@ -101,7 +101,7 @@ We welcome contributions from engineering graduates who are passionate about ope
 
 5. If your project passes our tests and is deemed valuable, your pull request will be accepted.
 
-6. Full guide on how to contribute is availabe [Contribution](Contribution.md)
+6. Full guide on how to contribute is available [Contribution](Contribution.md)
 
 **Please follow these guidelines to ensure your pull request is accepted.**
 
