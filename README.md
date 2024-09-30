@@ -82,7 +82,7 @@ Join Project-Wizard and unleash your engineering potential!
 - [Contributing](#contributing)
 - [Features](#features)
 - [Notes](#notes)
-- [Hacktoberfest 2023](#hacktoberfest-2023)
+- [Hacktoberfest 2024](#hacktoberfest-2024)
 - [Contributors](#contributors)
 
 ---
@@ -129,11 +129,11 @@ All contributions are highly appreciated. Join us in shaping the future of engin
 
 5. Additions to Contributers.md will be accepted/approved only if you contribute by adding a valid project!
 
-## Hacktoberfest 2023
+## Hacktoberfest 2024
 
-We are excited to announce that Project-Wizard is a part of Hacktoberfest 2023, celebrating its 10th anniversary.
+We are excited to announce that Project-Wizard is a part of Hacktoberfest 2024, celebrating its 11th anniversary.
 
-![Hacktoberfest 2023](https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png)
+![Hacktoberfest 2024](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--footer.cc639da3.svg)
 
 ## Contributors
 
