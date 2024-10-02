@@ -5,9 +5,9 @@ import torch
 
 
 def load_data():
-    # Load and preprocess Iris dataset (for binary classification, only two classes)
+    # Load and preprocess Iris dataset 
     data = load_iris()
-    X = data['data']  # Taking only the first 100 samples (2 classes)
+    X = data['data']
     y = data['target']
     
     # Normalize the data
