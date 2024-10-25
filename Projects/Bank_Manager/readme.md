@@ -41,4 +41,7 @@ To compile and run this project, you need:
  ```bash
     ./bank_management_system
 
+```
+
+### Made by <a href="https://github.com/darkforce112">Amit<a>
 
