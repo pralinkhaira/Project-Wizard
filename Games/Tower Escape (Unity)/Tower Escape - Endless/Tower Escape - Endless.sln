@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Escape - Endless", "Assembly-CSharp-firstpass.csproj", "{B799620F-F334-902C-CDBC-6FB77FC67FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Escape - Endless", "Assembly-CSharp.csproj", "{435FB843-DCC4-47D8-363C-3FA35D0D3654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B799620F-F334-902C-CDBC-6FB77FC67FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B799620F-F334-902C-CDBC-6FB77FC67FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B799620F-F334-902C-CDBC-6FB77FC67FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B799620F-F334-902C-CDBC-6FB77FC67FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435FB843-DCC4-47D8-363C-3FA35D0D3654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435FB843-DCC4-47D8-363C-3FA35D0D3654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435FB843-DCC4-47D8-363C-3FA35D0D3654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435FB843-DCC4-47D8-363C-3FA35D0D3654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

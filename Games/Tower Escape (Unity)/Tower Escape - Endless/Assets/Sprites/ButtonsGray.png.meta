@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: cac555e243b7c5f4382dd0bb1e2b5c3b
+timeCreated: 1526863064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ButtonsGray_0
+    21300002: ButtonsGray_1
+    21300004: ButtonsGray_2
+    21300006: ButtonsGray_3
+    21300008: ButtonsGray_4
+    21300010: ButtonsGray_5
+    21300012: ButtonsGray_6
+    21300014: ButtonsGray_7
+    21300016: ButtonsGray_8
+    21300018: ButtonsGray_9
+    21300020: ButtonsGray_10
+    21300022: ButtonsGray_11
+    21300024: ButtonsGray_12
+    21300026: ButtonsGray_13
+    21300028: ButtonsGray_14
+    21300030: ButtonsGray_15
+    21300032: ButtonsGray_16
+    21300034: ButtonsGray_17
+    21300036: ButtonsGray_18
+    21300038: ButtonsGray_19
+    21300040: ButtonsGray_20
+    21300042: ButtonsGray_21
+    21300044: ButtonsGray_22
+    21300046: ButtonsGray_23
+    21300048: ButtonsGray_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonsGray_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2089
+        width: 241
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2089
+        width: 241
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2089
+        width: 241
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2089
+        width: 240
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1837
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1837
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1837
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1837
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1586
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1586
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1586
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1586
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1333
+        width: 240
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1333
+        width: 240
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1333
+        width: 240
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1040
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1045
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 786
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 789
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 516
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 530
+        width: 868
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_22
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 261
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 868
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonsGray_24
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5
+        width: 868
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 6GB Laptop GPU (ID=0x25ac)
+    Vendor:   NVIDIA
+    VRAM:     6002 MB
+    Driver:   32.0.15.8088
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\khair\OneDrive\Desktop\Tower Escape UNITY\Output\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.809700 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicController.CheckToPlayMusic () [0x00000] in <filename unknown>:0 
+  at MusicController.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.593200 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 0.610000 ms (FindLiveObjects: 0.055200 ms CreateObjectMapping: 0.031200 ms MarkObjects: 0.475600 ms  DeleteObjects: 0.046800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.307500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 0.679500 ms (FindLiveObjects: 0.074100 ms CreateObjectMapping: 0.040800 ms MarkObjects: 0.547800 ms  DeleteObjects: 0.015100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.804900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.477700 ms (FindLiveObjects: 0.161200 ms CreateObjectMapping: 0.088500 ms MarkObjects: 1.184600 ms  DeleteObjects: 0.040000 ms)
+
+Setting up 5 worker threads for Enlighten.
+  Thread -> id: 2f74 -> priority: 1 
+  Thread -> id: 33d4 -> priority: 1 
+  Thread -> id: 397c -> priority: 1 
+  Thread -> id: 26e4 -> priority: 1 
+  Thread -> id: 7bc -> priority: 1 
