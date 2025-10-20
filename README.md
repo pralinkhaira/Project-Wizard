@@ -1,8 +1,9 @@
-# Project Wizard: Your Gateway to Open Source Engineering Projects
+# Project Wizard: Open Source Engineering Projects
 
-Are you an engineering graduate looking to kickstart your career in the world of technology and innovation? Welcome to Project-Wizard, your ultimate destination for a curated collection of open-source projects tailored specifically for engineering graduates.
+Are you an engineering graduate looking to kickstart your career in the world of technology and innovation? Welcome to **Project-Wizard**, your ultimate destination for a curated collection of open-source projects tailored specifically for engineering graduates.
 
 ---
+
 ## Maintainers
 
 ### Pralin Khaira ![Owner: Pralin](https://img.shields.io/badge/Owner-PralinKhaira-purple?logo=github)
@@ -10,9 +11,9 @@ Are you an engineering graduate looking to kickstart your career in the world of
 <details>
   <summary>Contact Pralin Khaira</summary>
 
-- **GitHub:** [Pralin Khaira](https://github.com/pralinkhaira/)
-- **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
-- **Website:** [Portfolio Website](https://pralinkhaira.github.io/)
+* **GitHub:** [Pralin Khaira](https://github.com/pralinkhaira/)
+* **Email:** [pralin.khaira.1903@gmail.com](mailto:pralin.khaira.1903@gmail.com)
+* **Website:** [Portfolio Website](https://pralinkhaira.github.io/)
 
 </details>
 
@@ -21,8 +22,8 @@ Are you an engineering graduate looking to kickstart your career in the world of
 <details>
   <summary>Contact Akshant Saini</summary>
 
-- **GitHub:** [Akshant Saini](https://github.com/theakshantsaini/)
-- **Email:** [Mail Me!](mailto:be.coder.19@gmail.com)
+* **GitHub:** [Akshant Saini](https://github.com/theakshantsaini/)
+* **Email:** [Mail Me!](mailto:be.coder.19@gmail.com)
 
 </details>
 
@@ -31,121 +32,109 @@ Are you an engineering graduate looking to kickstart your career in the world of
 <details>
   <summary>Contact Dhyey</summary>
 
-- **GitHub:** [InvisiblePro](https://github.com/InvisiblePro)
-- **Email:** [Mail Me!](mailto:hacker.invisiblepro@proton.me)
+* **GitHub:** [InvisiblePro](https://github.com/InvisiblePro)
+* **Email:** [Mail Me!](mailto:hacker.invisiblepro@proton.me)
 
 </details>
-
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2024-blueviolet" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/pralinkhaira" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
- 
- <a href="https://github.com/pralinkhaira1903" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-cyan" alt="HF2k23" /></a>
- <a href="https://github.com/pralinkhaira/Project-Wizard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/pralinkhaira/Project-Wizard" alt="PR's Merged"/></a>
- 
- <a href="https://github.com/pralinkhaira/Project-Wizard/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pralinkhaira/Project-Wizard?color=2b9348"></a>
- <a href="https://github.com/pralinkhaira/Project-Wizard/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pralinkhaira/Project-Wizard?color=2b9348" alt="License Badge"/></a>
+<img src="https://img.shields.io/badge/hacktoberfest-2025-orange" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/11th%20Edition-Celebrating%20Open%20Source-blueviolet" alt="Edition Badge"/>
+<img src="https://img.shields.io/badge/Contributions-Open%20to%20All-success?logo=git" alt="Contributions"/>
+<a href="https://github.com/pralinkhaira" ><img src="https://img.shields.io/badge/Contribute-Now!-brightgreen?logo=github" alt="Contribute Now" /></a>
+
+<a href="https://github.com/pralinkhaira/Project-Wizard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/pralinkhaira/Project-Wizard" alt="PR's Merged"/></a>
+
+<a href="https://github.com/pralinkhaira/Project-Wizard/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pralinkhaira/Project-Wizard?color=2b9348"></a> <a href="https://github.com/pralinkhaira/Project-Wizard/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pralinkhaira/Project-Wizard?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
+---
+
 ## Why Project-Wizard?
 
-Embarking on your engineering journey is an exciting and challenging adventure. However, it can be daunting to figure out where to begin or how to gain practical experience. Project-Wizard is here to guide you through this process by offering a diverse range of open-source projects from various engineering disciplines, including computer science, electrical engineering, mechanical engineering, and more.
+Embarking on your engineering journey is an exciting adventure. Project-Wizard bridges the gap between theoretical learning and real-world experience by helping students and graduates contribute to **Hacktoberfest 2025** and open-source communities worldwide.
 
-## Key Features:
+Whether you’re a **first-time contributor** or a **seasoned developer**, this is your chance to contribute meaningfully and earn limited-edition **Hacktoberfest 2025 swag** while sharpening your engineering skills.
 
-1. **Curated Selection:** Our team of experts carefully selects and categorizes open-source projects that are perfect for engineering graduates. Whether you're interested in software development, hardware design, robotics, or any other engineering field, we have projects to suit your interests.
+## Hacktoberfest 2025: The Heart of Project-Wizard ❤️
 
-2. **Skill Development:** Each project comes with a detailed description, required skillsets, and step-by-step instructions, making it easy for you to get started and gain hands-on experience. You'll have the opportunity to enhance your technical skills and build a strong portfolio.
+Project-Wizard proudly participates in **Hacktoberfest 2025**, empowering engineers to make their first pull requests and contribute to impactful open-source projects.
 
-3. **Community Collaboration:** Connect with a vibrant community of like-minded engineering enthusiasts, mentors, and fellow graduates. Share your progress, seek advice, and collaborate on projects to accelerate your learning and expand your network.
+### 🌟 What’s New in Hacktoberfest 2025
 
-4. **Career Boost:** Completing open-source projects from Project-Wizard not only enriches your knowledge but also enhances your resume. Employers value candidates who have demonstrated practical experience in real-world projects.
+* 11th edition with a focus on **quality contributions** and **real-world impact**.
+* New categories for engineering disciplines – not just coding!
+* **AI-powered Project Finder** (coming soon) to match your skills to the right repository.
+* Virtual and local **Hacktoberfest meetups** hosted by Project-Wizard community mentors.
 
-5. **Accessible and Free:** Project-Wizard is open to all and completely free of charge. We believe that access to quality engineering projects should be available to everyone, regardless of their background or financial resources.
+### 💻 How You Can Participate
 
-## Get Started Today!
+1. Fork Project-Wizard and explore the folders for your preferred programming language.
+2. Pick or add a project, submit a pull request, and get it merged.
+3. Get your PR accepted during Hacktoberfest and **earn digital rewards or swag**.
+4. Connect on GitHub Discussions and join the Discord server to interact with maintainers and mentors.
 
-Dive into the world of open source, gain valuable engineering experience, and set yourself on the path to a successful career. Project-Wizard is your portal to endless possibilities. Start exploring, learning, and building your engineering future now.
-
-Join Project-Wizard and unleash your engineering potential!
+> 🏆 **Tip:** The earlier you start contributing, the better your chances to earn verified Hacktoberfest rewards!
 
 ---
 
-## Table of Contents
+## Key Features
 
-- [Contributing](#contributing)
-- [Features](#features)
-- [Notes](#notes)
-- [Hacktoberfest 2024](#hacktoberfest-2024)
-- [Contributors](#contributors)
+1. **Hacktoberfest-Focused Projects:** A growing collection of beginner-to-advanced level open-source projects aligned with Hacktoberfest 2025.
+2. **Multi-Disciplinary Engineering:** Projects span computer science, electronics, mechanical, and interdisciplinary domains.
+3. **Detailed Guidance:** Every repository includes documentation, skill requirements, and setup instructions.
+4. **Mentorship & Collaboration:** Join a community of contributors and mentors ready to help you succeed.
+5. **Skill Development:** From coding and automation to AI and embedded systems, we have something for every engineer.
 
 ---
 
 ## Contributing
 
-We welcome contributions from engineering graduates who are passionate about open source projects. Here's how you can contribute:
+We welcome all engineering students and professionals who are eager to take part in **Hacktoberfest 2025** and beyond.
 
-1. Upload your project files to the relevant language folders.
+### 🧩 Steps to Contribute
 
-2. Create a separate folder for your project with the main program file named `main.__` and include any other necessary data files.
+1. Fork this repository.
+2. Add your project folder to the relevant language directory.
+3. Include your main file (`main.__`), dependencies (`requirements.txt`), and documentation.
+4. Ensure your project runs smoothly on multiple systems.
+5. Submit a pull request and mention **Hacktoberfest 2025** in your PR title.
+6. Wait for review and approval by maintainers.
 
-3. Ensure that your program is executable on various systems. If specific versions are required, please mention them in the project files.
+Your contribution helps make **Project-Wizard** the go-to place for engineering students to start their open-source journey.
 
-4. Provide a `requirements.txt` file if your project depends on specific modules or packages.
+> ✅ Valid PRs = Contribution toward Hacktoberfest 2025 goals!
 
-5. If your project passes our tests and is deemed valuable, your pull request will be accepted.
-
-6. Full guide on how to contribute is available [Contribution](Contribution.md) ~ Typo corrected by [Chaitanya](https://github.com/Chaitanya110703) Thanks!
-
-**Please follow these guidelines to ensure your pull request is accepted.**
-
-## Features
-
-Project-Wizard aims to contribute to the field of engineering in various ways:
-
-- Utilizing computer vision technology for innovative solutions.
-  
-- Enhancing security systems with computer vision applications.
-  
-- Exploring machine learning applications based on computer vision for real-world data recognition and analysis.
-
-All contributions are highly appreciated. Join us in shaping the future of engineering!
+---
 
 ## Notes
 
-1. Fake or invalid pull requests will not be accepted.
+1. Invalid or spammy PRs will be marked as **spam** and disqualified from Hacktoberfest.
+2. Bugs or incomplete projects will be tagged for revision.
+3. README-only changes are **not accepted** as valid contributions.
+4. Contributors are recognized in the official `Contributors.md` file only after a valid project submission.
 
-2. If your project includes bugs, we may ask you to update or change it, and the pull request will be marked as 'bugs.'
-
-3. Spammy pull requests will be marked as 'spam.'
-
-4. We do not accept README.md updates as valid contributions, although we have contributers.md for adding your name there!
-
-5. Additions to Contributers.md will be accepted/approved only if you contribute by adding a valid project!
-
-## Hacktoberfest 2024
-
-We are excited to announce that Project-Wizard is a part of Hacktoberfest 2024, celebrating its 11th anniversary.
-
-![Hacktoberfest 2024](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--footer.cc639da3.svg)
+---
 
 ## Contributors
 
-We appreciate all [contributors](Contributers.md) who make Project-Wizard possible.
+We appreciate every contributor who makes **Project-Wizard** possible! Join us, contribute, and see your name featured below:
 
-<a href="https://github.compralinkhaira/Project-Wizard/graphs/contributors">
+<a href="https://github.com/pralinkhaira/Project-Wizard/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pralinkhaira/Project-Wizard" />
 </a>
 
-<br>
-<br/>
+---
 
+## Let’s Build Together for Hacktoberfest 2025 🚀
 
-![Owner: Pralin](https://img.shields.io/badge/Owner-PralinKhaira-purple?logo=github)
-![Hacktoberfest-Accepted](https://img.shields.io/badge/Hacktoberfest--Accepted-cyan)
+Join **Project-Wizard** this Hacktoberfest season and become part of a global community of creators, innovators, and open-source contributors. Whether you’re contributing code, documentation, or design — your effort matters.
+
+🎉 **Hack. Learn. Contribute. Celebrate Hacktoberfest 2025 with Project-Wizard!**
+<img width="1269" height="891" alt="Screenshot 2025-10-15 023336" src="https://github.com/user-attachments/assets/d70844d2-f9e9-4065-898e-72941d04ef58" />
+
+<img width="1418" height="754" alt="Screenshot 2025-10-15 023421" src="https://github.com/user-attachments/assets/5710a865-c2b9-444b-b22f-1321bf624f90" />
