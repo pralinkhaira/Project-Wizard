@@ -1,0 +1,219 @@
+@font-face {
+  font-family: 'PressStart2P';
+  src: local('Press Start 2P'), local('PressStart2P'); /* Fallback to system if available */
+}
+
+html, body.dark-mode {
+  height: 100vh;
+  overflow: hidden;
+  background: #0d0d0d;
+  color: #e6e6e6;
+  font-family: 'PressStart2P', 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  image-rendering: pixelated;
+  position: relative;
+}
+
+/* subtle scanline effect */
+body.dark-mode::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(255,255,255,0.02),
+    rgba(255,255,255,0.02) 2px,
+    transparent 2px,
+    transparent 4px
+  );
+  pointer-events: none;
+}
+
+.taskbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 24px;
+  background: #111;
+  border-bottom: 4px solid #2a2a2a;
+  flex-shrink: 0;
+}
+.name-tetris.left {
+  justify-self: flex-start;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+.score.right {
+  justify-self: flex-end;
+  margin-top: 8px;
+  margin-right: 12px;
+}
+
+.name-tetris h1 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #f5d300; /* 8-bit gold */
+  text-shadow: 0 2px #7a6b00, 2px 0 #7a6b00, 2px 2px #7a6b00;
+}
+
+.score p {
+  margin: 0;
+  font-size: 0.8rem;
+  background: #0c0c0c;
+  border: 3px solid #2a2a2a;
+  padding: 8px 12px;
+  color: #7afcff; /* cyan retro */
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0;
+  padding: 8px 10px;
+  background: #0f0f12;
+  border: 4px solid #2a2a2a;
+  box-shadow: inset 0 0 0 4px #000, 0 8px 0 #000;
+  max-width: 100vw;
+  width: 100vw;
+  height: calc(100vh - 60px);
+  box-sizing: border-box;
+  gap: 20px;
+}
+
+#board {
+  /* Prevent flex from stretching the canvas. JS will size it precisely. */
+  flex: 0 0 auto;
+  height: auto;
+  background: #000;
+  border: 4px solid #2a2a2a;
+  box-shadow: inset 0 0 0 4px #000, 0 6px 0 #000;
+  image-rendering: pixelated;
+  display: block;
+  margin: 0 auto;
+}
+
+#remote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: #1a1a1a;
+  border: 4px solid #2a2a2a;
+  box-shadow: inset 0 0 0 4px #000, 0 6px 0 #000;
+  padding: 16px;
+  border-radius: 8px;
+  gap: 16px;
+  height: calc(100% - 16px);
+}
+.remote-spacer {
+  display: none;
+}
+
+#controls {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(48px, 1fr));
+  grid-template-rows: repeat(2, minmax(48px, 1fr));
+  grid-template-areas:
+    ". up ."
+    "left down right";
+  gap: 12px;
+  width: 100%;
+  max-width: 260px;
+  margin: auto 0;
+  justify-items: center;
+  align-items: center;
+  order: 1;
+}
+
+.control-button {
+  width: 100%;
+  height: 100%;
+  min-width: 56px;
+  min-height: 56px;
+  max-width: 80px;
+  max-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1a1a1a;
+  color: #e6e6e6;
+  font-size: clamp(1.4rem, 2.5vw, 2.2rem);
+  border: 3px solid #2a2a2a;
+  box-shadow: inset 0 -4px 0 #0a0a0a, 0 4px 0 #000;
+  cursor: pointer;
+  outline: none;
+  transition: transform 0.05s;
+}
+.control-button:active {
+  transform: translateY(3px);
+  box-shadow: inset 0 -2px 0 #0a0a0a, 0 2px 0 #000;
+}
+
+#up { grid-area: up; }
+#left { grid-area: left; }
+#down { grid-area: down; }
+#right { grid-area: right; }
+
+#play {
+  background: #1a1a1a;
+  color: #7afcff;
+  font-size: clamp(1.1rem, 2.5vw, 1.7rem);
+  padding: 18px 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+  border: 3px solid #2a2a2a;
+  box-shadow: inset 0 -4px 0 #0a0a0a, 0 4px 0 #000;
+  width: 100%;
+  max-width: 180px;
+  min-height: 56px;
+  border-radius: 10px;
+  order: -1;
+}
+#play:active {
+  transform: translateY(3px);
+  box-shadow: inset 0 -2px 0 #0a0a0a, 0 2px 0 #000;
+}
+
+@media (max-width: 600px) {
+  .container { width: 100vw; padding: 6px 8px; height: calc(100vh - 50px); gap: 10px; justify-content: flex-start; }
+  #board { flex: none; aspect-ratio: 10/20; height: calc(100% - 16px); }
+  #remote {
+    width: auto;
+    padding: 12px;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: -10px; /* Move remote box slightly left for full visibility */
+  }
+  #controls {
+    gap: 6px;
+    width: min(220px, 90%);
+    aspect-ratio: 3/2;
+    margin: auto 0;
+    justify-items: center;
+    align-items: center;
+  }
+  .control-button {
+    min-width: 44px;
+    min-height: 44px;
+    max-width: 60px;
+    max-height: 60px;
+    font-size: clamp(1.1rem, 4vw, 1.5rem);
+  }
+  #play {
+    font-size: 1rem;
+    padding: 14px 0;
+    max-width: 140px;
+    min-height: 44px;
+    margin-top: 0;
+    border-radius: 8px;
+  }
+}

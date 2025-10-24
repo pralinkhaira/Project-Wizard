@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BlockRush Retro</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body class="dark-mode">
+  <div class="taskbar">
+    <div class="name-tetris left">
+      <h1>BlockRush</h1>
+    </div>
+    <div class="score right">
+      <p>Score: <span id="score">0</span></p>
+    </div>
+  </div>
+  <div class="container">
+    <canvas id="board"></canvas>
+    <div id="remote">
+      <div id="controls">
+        <button id="left" class="control-button" aria-label="Left">◀</button>
+        <button id="up" class="control-button" aria-label="Rotate">⟳</button>
+        <button id="down" class="control-button" aria-label="Down">▼</button>
+        <button id="right" class="control-button" aria-label="Right">▶</button>
+      </div>
+      <div class="remote-spacer"></div>
+      <button id="play" class="play-button">Play</button>
+    </div>
+  </div>
+    <script src="script.js"></script>
+</body>
+</html>
